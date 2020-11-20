@@ -1,0 +1,22 @@
+{
+  "name": "testing-web-services",
+  "version": "1.0.0",
+  "description": "EPMFARMATS-12788",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex39292/Testing-Web-Services.git"
+  },
+  "keywords": [
+    "\"mocha\""
+  ],
+  "author": "Aliaksandr Danilin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex39292/Testing-Web-Services/issues"
+  },
+  "homepage": "https://github.com/alex39292/Testing-Web-Services#readme"
+}
