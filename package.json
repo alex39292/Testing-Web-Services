@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/alex39292/Testing-Web-Services/issues"
   },
-  "homepage": "https://github.com/alex39292/Testing-Web-Services#readme"
+  "homepage": "https://github.com/alex39292/Testing-Web-Services#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "mochawesome": "^6.2.1"
+  }
 }
