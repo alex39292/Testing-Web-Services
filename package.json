@@ -4,14 +4,14 @@
   "description": "EPMFARMATS-12788",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alex39292/Testing-Web-Services.git"
   },
   "keywords": [
-    "\"mocha\""
+    "mocha"
   ],
   "author": "Aliaksandr Danilin",
   "license": "ISC",
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/alex39292/Testing-Web-Services#readme",
   "dependencies": {
+    "bent": "^7.3.12",
     "chai": "^4.2.0",
     "mocha": "^8.2.1",
     "mochawesome": "^6.2.1"
