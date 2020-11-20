@@ -13,3 +13,4 @@ node_modules/*
 .eslintignore
 .nyc_output
 coverage
+mochawesome-report
